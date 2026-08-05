@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-04T23:57:10.805Z",
-  "songCount": 812,
+  "generatedAt": "2026-08-05T13:50:30.467Z",
+  "songCount": 804,
   "categoryCount": 19,
   "songs": [
     {
@@ -2021,25 +2021,6 @@
       ]
     },
     {
-      "id": "song_4834cd94-ef95-497b-baa3-8308eb3e72e9",
-      "artist": "아이유",
-      "title": "가을 아침",
-      "categories": [
-        "K-POP",
-        "발라드"
-      ]
-    },
-    {
-      "id": "song_57284eab-f5d9-4607-b0e0-769540b98777",
-      "artist": "잔나비",
-      "title": "가을밤에 든 생각",
-      "categories": [
-        "K-POP",
-        "발라드",
-        "인디"
-      ]
-    },
-    {
       "id": "song_bafe9105-5994-44fd-8585-0bb52280e425",
       "artist": "아이유",
       "title": "가을아침",
@@ -2365,15 +2346,6 @@
       ]
     },
     {
-      "id": "song_444fe921-fbe4-4c5b-bc42-450250fd4801",
-      "artist": "반하나",
-      "title": "그날의 온도",
-      "categories": [
-        "K-POP",
-        "발라드"
-      ]
-    },
-    {
       "id": "song_d137d51c-7b7e-4bbe-b8a9-21ff054e2539",
       "artist": "다비치",
       "title": "그냥 안아달란 말야",
@@ -2442,15 +2414,6 @@
       "id": "song_101bae73-4f60-461a-9555-d561a3ce5803",
       "artist": "엠씨더맥스",
       "title": "그대가 분다",
-      "categories": [
-        "K-POP",
-        "발라드"
-      ]
-    },
-    {
-      "id": "song_14fef748-4d38-4368-a876-e660b476c69d",
-      "artist": "엠씨더맥스",
-      "title": "그대가분다",
       "categories": [
         "K-POP",
         "발라드"
@@ -3086,16 +3049,6 @@
       ]
     },
     {
-      "id": "song_13dcaebf-2f85-4bdc-ad3c-66153fa273da",
-      "artist": "아이유",
-      "title": "내손을 잡아",
-      "categories": [
-        "K-POP",
-        "밴드/락",
-        "댄스"
-      ]
-    },
-    {
       "id": "song_ab77960a-273a-4fd0-92e4-d4e65522c368",
       "artist": "최유리",
       "title": "내일 할 일",
@@ -3173,7 +3126,7 @@
     {
       "id": "song_ac114003-4b72-4380-ad08-8e998a8f7c51",
       "artist": "아이유",
-      "title": "너랑나",
+      "title": "너랑 나",
       "categories": [
         "K-POP",
         "댄스"
@@ -3211,7 +3164,7 @@
     {
       "id": "song_f3cd3459-b8bc-4cfc-873d-d4a75a391e35",
       "artist": "다비치",
-      "title": "너없는 시간들",
+      "title": "너 없는 시간들",
       "categories": [
         "K-POP",
         "발라드"
@@ -3454,15 +3407,6 @@
       ]
     },
     {
-      "id": "song_8f59bde0-7138-43f1-9afd-8d76172ca6bd",
-      "artist": "노을",
-      "title": "늦은밤 너의 집 앞 골목길에서",
-      "categories": [
-        "K-POP",
-        "발라드"
-      ]
-    },
-    {
       "id": "song_eac0d7b6-e71f-4fc2-8786-c9554bc9db71",
       "artist": "송하예",
       "title": "니 소식",
@@ -3540,7 +3484,7 @@
     {
       "id": "song_f53d8036-4f70-4822-af35-e6edb13a59ad",
       "artist": "정효빈",
-      "title": "달라진 니마음",
+      "title": "달라진 니 마음",
       "categories": [
         "K-POP",
         "발라드"
@@ -3957,7 +3901,7 @@
     {
       "id": "song_cb75a026-f571-4053-9b19-e304d71c3773",
       "artist": "악동뮤지션",
-      "title": "못생긴척",
+      "title": "못생긴 척",
       "categories": [
         "K-POP",
         "댄스",
@@ -4287,16 +4231,6 @@
       "id": "song_065833c0-0b72-4026-970f-c7fa450b3af2",
       "artist": "볼빨간사춘기",
       "title": "별 보러 갈래?",
-      "categories": [
-        "K-POP",
-        "댄스",
-        "인디"
-      ]
-    },
-    {
-      "id": "song_6d709a67-d3e1-4e20-b02f-1cee8ea60a4c",
-      "artist": "볼빨간사춘기",
-      "title": "별보러갈래?",
       "categories": [
         "K-POP",
         "댄스",
@@ -6215,16 +6149,6 @@
       ]
     },
     {
-      "id": "song_451a45eb-abc9-48c5-b301-c004c3047764",
-      "artist": "권진아",
-      "title": "이별뒷면",
-      "categories": [
-        "K-POP",
-        "발라드",
-        "인디"
-      ]
-    },
-    {
       "id": "song_af8202b9-61ee-4cff-9a7f-470d357469fd",
       "artist": "린",
       "title": "이별주",
@@ -6383,7 +6307,7 @@
     {
       "id": "song_d16ba99b-56c4-49d7-b2d4-f24c55bbae3a",
       "artist": "아이유",
-      "title": "잠못드는 밤 비는 내리고",
+      "title": "잠 못드는 밤 비는 내리고",
       "categories": [
         "K-POP",
         "발라드"
@@ -6533,7 +6457,7 @@
     {
       "id": "song_31e6ba96-48af-4222-8569-e78a55394da2",
       "artist": "아이유",
-      "title": "좋은날",
+      "title": "좋은 날",
       "categories": [
         "K-POP",
         "댄스"
@@ -6542,7 +6466,7 @@
     {
       "id": "song_1fb28f67-5eca-402e-9bd1-84cef9463660",
       "artist": "토이",
-      "title": "좋은사람",
+      "title": "좋은 사람",
       "categories": [
         "K-POP",
         "발라드",
@@ -6732,7 +6656,7 @@
     {
       "id": "song_66269620-dc59-4ac8-be67-2301c0f9645c",
       "artist": "볼빨간사춘기",
-      "title": "처음부터 너와나",
+      "title": "처음부터 너와 나",
       "categories": [
         "K-POP",
         "인디"
@@ -6894,7 +6818,7 @@
     {
       "id": "song_b7c20138-f8a3-44cc-9c73-9413c295002f",
       "artist": "지오디(GOD)",
-      "title": "촛불하나",
+      "title": "촛불 하나",
       "categories": [
         "K-POP",
         "발라드",
@@ -6922,7 +6846,7 @@
     {
       "id": "song_1e66f693-ee77-4915-a03b-fc0e64d68b9b",
       "artist": "토이",
-      "title": "취한밤",
+      "title": "취한 밤",
       "categories": [
         "K-POP",
         "발라드",
@@ -7027,7 +6951,7 @@
     {
       "id": "song_ca38fbcc-c032-4b9f-8437-bd5827a508ab",
       "artist": "이바다",
-      "title": "파란꽃",
+      "title": "파란 꽃",
       "categories": [
         "K-POP",
         "인디",
@@ -7179,7 +7103,7 @@
     {
       "id": "song_9af0cd40-f9b0-4ccc-8715-dfa73b9a1dfc",
       "artist": "아이유",
-      "title": "하루끝",
+      "title": "하루 끝",
       "categories": [
         "K-POP",
         "댄스"
