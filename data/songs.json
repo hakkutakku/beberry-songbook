@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T13:58:21.978Z",
-  "songCount": 804,
+  "generatedAt": "2026-09-04T11:15:58.491Z",
+  "songCount": 806,
   "categoryCount": 19,
   "songs": [
     {
@@ -554,7 +554,7 @@
     },
     {
       "id": "song_0eff6a69-efee-47d0-ba92-1f93549fb5de",
-      "artist": "N.Flying",
+      "artist": "엔플라잉(N.Flying)",
       "title": "Flashback",
       "categories": [
         "K-POP",
@@ -7531,6 +7531,24 @@
         "K-POP",
         "아이돌",
         "댄스"
+      ]
+    },
+    {
+      "id": "song_2bd3fc13-40ad-47db-b809-c9435137a140",
+      "artist": "벤",
+      "title": "끝까지",
+      "categories": [
+        "K-POP",
+        "발라드"
+      ]
+    },
+    {
+      "id": "song_2d439be2-6687-4078-9a84-97f075e18818",
+      "artist": "엔플라잉(N.Flying)",
+      "title": "만년설",
+      "categories": [
+        "K-POP",
+        "밴드/락"
       ]
     }
   ],
