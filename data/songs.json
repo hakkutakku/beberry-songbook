@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T11:15:58.491Z",
-  "songCount": 806,
+  "generatedAt": "2026-10-10T11:27:10.460Z",
+  "songCount": 811,
   "categoryCount": 19,
   "songs": [
     {
@@ -5344,7 +5344,8 @@
       "title": "아이와 나의 바다",
       "categories": [
         "K-POP",
-        "발라드"
+        "발라드",
+        "커버 및 콘서트 곡"
       ]
     },
     {
@@ -7549,6 +7550,56 @@
       "categories": [
         "K-POP",
         "밴드/락"
+      ]
+    },
+    {
+      "id": "song_69eed6ad-de79-4231-85b5-abb242d51537",
+      "artist": "터치드",
+      "title": "야경",
+      "categories": [
+        "K-POP",
+        "밴드/락",
+        "커버 및 콘서트 곡"
+      ]
+    },
+    {
+      "id": "song_97ea741b-ab04-4500-94fd-be845df95150",
+      "artist": "AiiA",
+      "title": "숨바꼭질",
+      "categories": [
+        "J-POP",
+        "밴드/락",
+        "커버 및 콘서트 곡"
+      ]
+    },
+    {
+      "id": "song_e6862e7e-ac02-49f1-aff2-4c8e16ef9bd1",
+      "artist": "정승환",
+      "title": "마치 오늘처럼",
+      "categories": [
+        "K-POP",
+        "발라드",
+        "커버 및 콘서트 곡"
+      ]
+    },
+    {
+      "id": "song_482a1574-3858-4c13-bba6-3514576dabae",
+      "artist": "하현상",
+      "title": "등대",
+      "categories": [
+        "K-POP",
+        "발라드",
+        "커버 및 콘서트 곡"
+      ]
+    },
+    {
+      "id": "song_059cdc12-3bb3-43e7-ab35-6f597be02916",
+      "artist": "최유리",
+      "title": "생각을 멈추다 보면",
+      "categories": [
+        "K-POP",
+        "발라드",
+        "커버 및 콘서트 곡"
       ]
     }
   ],
